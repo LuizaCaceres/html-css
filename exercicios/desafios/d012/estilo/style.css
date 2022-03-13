@@ -74,7 +74,7 @@ section#img01{
    background-position: right center;
 }
 section#img02{
-   background-image: url(../d012/imagens/background002.jpg);
+   background-image: url(./d012/imagens/background002.jpg);
    background-position:right center;
 }
 footer{
